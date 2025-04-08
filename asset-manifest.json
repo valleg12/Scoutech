@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/ScouTech/static/js/main.97c56e92.js",
-    "index.html": "/ScouTech/index.html",
-    "main.97c56e92.js.map": "/ScouTech/static/js/main.97c56e92.js.map"
+    "main.js": "/Scoutech/static/js/main.97c56e92.js",
+    "index.html": "/Scoutech/index.html",
+    "main.97c56e92.js.map": "/Scoutech/static/js/main.97c56e92.js.map"
   },
   "entrypoints": [
     "static/js/main.97c56e92.js"
